@@ -15,7 +15,7 @@ I don't have great programming skills, just simple modification
 
 Mainly as a repository
 
-**主要在[gitee](https://gitee.com/Little-Data/)上活动（现在较少了）**
+**摸鱼刷题ing**
 
 **Mainly active on gitee(Less active)**
 
