@@ -36,11 +36,6 @@ Gitee's strange rules force me to be active on Github
 Little-Data/Little-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-在一些读者的强烈要求后，我终于开始对成都下手了。成都近些年发展的速度极其的快，感觉西部地区的互联网环境能发展成这样实属不易。今天我们就以程序员的视角带你看成都。
-
-其实我读大学时没怎么接触过四川人，直到读研来了西安，感觉西安的四川人好多啊（西安到成都最快的一趟车3个小时17分钟）。身边接触的四川人逐渐多了起来，加上我的四川舍友（读研来报道时我的四川舍友看着暖气研究了很久），让我逐渐对四川有了一些了解。感觉四川人普遍是真爱吃火锅，真爱吃辣呀，另外我发现四川人普遍懂得享受生活~ 在开始介绍城市前先为成都定一个基调吧，那就是 `享受生活`。
-
-本篇文章还是从成都的工作机会、生活成本两个角度来介绍成都。
 
 # 工作机会
 
