@@ -7,13 +7,6 @@
 </picture> 
 
 # 简述 introduction
-本人并不会有很大的编程能力，只是简单修改
-
-I don't have great programming skills, just simple modification
-
-主要是当个储存库
-
-Mainly as a repository
 
 **摸鱼刷题ing**
 
